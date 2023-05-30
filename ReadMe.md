@@ -63,6 +63,7 @@ For evaluating this model, we will count clicks/tokens. For example, for the wor
 
 For the test data the clicks/token is 7.13 and for validation set it is 5.74.
 
+
 #### File structure:
 
 Model 1: Text_prediction-Sequence length 15 new validation.ipynb
